@@ -16,7 +16,7 @@ python3 main.py
 ## testing adversarial examples
 
 ```shell
-python3 test_adversarial_examples.py
+python3 evaluate_adversarial_examples.py
 ```
 
 ## results
